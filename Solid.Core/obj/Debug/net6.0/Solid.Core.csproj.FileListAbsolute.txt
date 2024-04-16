@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט בC# סופי\LibraryAPI\Solid.Core\obj\Debug\net6.0\Solid.Core.sourcelink.json
